@@ -1,0 +1,40 @@
+Group_Name;Group_Description;Application
+ECCADBAR;access for DBA support;eCustoms-CA
+ECCAJCL;access to PROD1.JCL datasets;eCustoms-CA
+ECPIMSQ;UPDATE access to TECUQF.CA.IBM.PIMS.IFIN.FEED, (connected to ECUSFTP only);eCustoms-CA
+ECUSDEV;access for developers - Read MVSSYS.* files/CEMT;both
+ECUSJCL;access to PROD1.JCL datasets;eCustoms-US
+ECUSPFLR;Read PECUPF.* files ;both
+ECUSQFLA;Update TECUQF.* files;both
+ECUSQFLR;Read TECUQF.* files;both
+ECUSQUP;DB2Q tables (DB2Q): Insert/update/delete ;eCustoms-US
+ECUSTFLA;Update TECUTF.* files and TECUTL.* libraries;both
+ECUSTFLR;Read TECUTF.* files and TECUTL.* libraries;both
+PCACICS;Groups used only by CICSSTC user to LOADCICS datasets;eCustoms-CA
+PECCAID;Allows to dynamically create libraries PECCAL.I* ;eCustoms-CA
+PECCAL;Root repository  source code Urban Code for all envrionments eCustoms-CA;eCustoms-CA
+PECCALA;Admin access to PECCAL.* libraries (ALTER access);eCustoms-CA
+PECCALR;Read PECCAL.* libraries (for Batch Ops team);eCustoms-CA
+PECCALS;Promoter of PECCAL.* libraries (only DEVOPSE3 user);eCustoms-CA
+PECUCTSI;production dataset - data transmission;eCustoms-US
+PECUPF;production dataset;both
+PECUSFTP;production dataset - data transmission;eCustoms-US
+PECUSID;Allows to dynamically create libraries PECUSL.I* ;eCustoms-US
+PECUSL;Root repository  source code Urban Code for all envrionments eCustoms-US;eCustoms-US
+PECUSLA;Admin access to PECUSL.* libraries (ALTER access);eCustoms-US
+PECUSLS;Promoter of PECUSL.* libraries (only DEVOPSE3 user);eCustoms-US
+PECUSSUP;Read access to data files;eCustoms-US
+PUSCICS;Groups used only by CICSSTC user to LOADCICS datasets;eCustoms-US
+TECCALD;Development of code - eCustoms-CA;eCustoms-CA
+TECCALP;Business Analysts - eCustoms-CA (Edit access to SCLM libraries);eCustoms-CA
+TECCALS;Code promotion on SCLM - from Stage to production - eCustoms-CA;eCustoms-CA
+TECUQF;access TECUQF.* files - files generated in dev environment;both
+TECUSL;Root reposity SCLM for all environments.;eCustoms-US
+TECUSLB;Business Analysts - eCustoms-US;eCustoms-US
+TECUSLP;Development of code - eCustoms-US;eCustoms-US
+TECUSLR;Read TECUSL.* files -  librarian readers;both
+TECUSLS;Code promotion on SCLM - from Stage to production - eCustoms-US;eCustoms-US
+TECUTF;access TECUTF.* files  - files generated in test environment;both
+TECUTL;access TECUTL.* files - Partition Data Set for test environment;both
+TECUQL;access to dev libraries;both
+TECULQ;access to dev libraries;both

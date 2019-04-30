@@ -1,0 +1,22 @@
+Group_Name;Group_Description;Application;Asset_Type;Environment
+ECCACICP;Group with access to eCustoms-CA prodc online screens;eCustoms-CA;CICS (Online);prod
+ECCAUACC;transacion ECCA - security officer;eCustoms-CA;CICS (Online);prod
+ECTUPRD;Read access for tracking tool table on prod;eCustoms-US;DB2;prod
+ECTUTUP;Update access for tracking tool table on test;eCustoms-US;DB2;test
+ECT0PCIC;group with access to eCustoms-US online tracking tool;eCustoms-US;CICS (Online);prod
+ECUMPCIC;transacion ECUM - security officer;eCustoms-US;CICS (Online);prod
+ECUMQCIC;transacion ECUM - security officer;eCustoms-US;CICS (Online);dev
+ECUMTCIC;transacion ECUM - security officer;eCustoms-US;CICS (Online);test
+ECUSARD;Read (ECUSUSA2.*);eCustoms-US;DB2;prod
+ECUSAUPD;Group with update access to ECUCUSA2.* owner of DB2P  tables).;eCustoms-US;DB2;prod
+ECUSPCIC;group with access to eCustoms-US online screens;eCustoms-US;CICS (Online);prod
+ECUSPMQ;read Queues-MQ-Series (PROD/DB2P);eCustoms-US;MQ;prod
+ECUSPRD;Read access to all eCustoms prod tables (ECUSCAN.* and ECUSTOMS.*);eCustoms-CA;DB2;prod
+ECUSPUP;Update access for specific tables related to classification;eCustoms-US;DB2;prod
+ECUSQCIC;Group with access to eCustoms-US dev online screens.;eCustoms-US;CICS (Online);dev
+ECUSQMQ;Read Queues MQ-Series (DEV1/DB2Q);eCustoms-US;MQ;dev
+ECUSQRD;DB2Q tables (DB2Q): Read;eCustoms-US;DB2;dev
+ECUSTCIC;Group with access to eCustoms-US online on CICSECT1 (test environment).;eCustoms-US;CICS (Online);test
+ECUSTMQ;read Queues MQ-Series (TEST1/DB2T);eCustoms-US;MQ;test
+ECUSTRD;DB2T tables (DB2T): Read;eCustoms-US;DB2;test
+ECUSTUP;DB2T tables (DB2T): Insert/Update/Delete;eCustoms-US;DB2;test

@@ -1,0 +1,169 @@
+Profile_Name;Profile_Owner_Name;Application;Asset_Type;Environment;Description
+TECCAL.DEV.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;dev;Dev Library used to store generic code repository of eCustoms Canada (SCLM library)
+TECCAL.DEVTEST.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;devtest;Library used to promote code from dev to test environment of eCustoms Canada (SCLM library)
+TECCAL.DEVTEST1.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;devtest;Library used to promote code from dev to test environment of eCustoms Canada (SCLM library)
+TECCAL.DEV1.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;dev;Dev Library used to store generic code repository of eCustoms Canada (SCLM library)
+TECCAL.PROD.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;prod;Production Library used to store generic code repository of eCustoms Canada (SCLM library)
+TECCAL.STAGE.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;stage;Stage Library used to store generic code repository of eCustoms Canada (SCLM library)
+TECCAL.TEST.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;test;Test Library used to store generic code repository of eCustoms Canada (SCLM library)
+PECCAL.PROD1.JCL;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;prod;Production Library used to store JCLs for eCustoms Batch Canada (UCD library)
+TECUQF.CA.IBM.PIMS.IFIN.FEED;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;dev;The PIMS Inbound Interface dev dataset used to receive/simulate test data from PIMS. Not really functiontal, just for test purposes
+CICS1.*;Takechi Toma, O. (Osvaldo);Both;Lib;dev;Used by the eCustoms US/CA compilers
+IPODC.ACCOUNT.*;Pavao Junior, P. (Paulo Roberto);eCustoms-US;Lib;prod;Access to DDB repository library (account file)
+MVSSYS.CLASSR.*;Pavao Junior, P. (Paulo Roberto);Both;Lib;prod;Used by eCustoms US/CA support team to view jobrun execution output
+TESTIMS.LINKLIB;Alves De Paula, L. (Leandro);Both;Lib;dev;Used by the eCustoms US/CA compilers
+TESTIMS.SYS.*;Alves De Paula, L. (Leandro);Both;Lib;dev;I could not find any use currently. It may be necessary in case we change IMS code (CCCS programs)
+TESTIMS.SYS.ACB*;Rayan Palla, R. (Rodrigo);Both;Lib;dev;I could not find any use currently. It may be necessary in case we change IMS code (CCCS programs)
+TESTIMS.SYS.DBDLIB;Rayan Palla, R. (Rodrigo);Both;Lib;dev;I could not find any use currently. It may be necessary in case we change IMS code (CCCS programs)
+PECUSL.PROD1.JCL;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;prod;Production Library used to store JCLs for eCustoms Batch US (UCD library)
+PECUPF.*;Moretto Braga, A. (Ana Silvia);Both;Data;prod;Production datasets to store data for temporary process and backup
+PECUPF.CA.IBM.PIMS.IFIN.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;The PIMS Inbound Interface dataset used to receive data from PIMS and keep the backup
+PECUPF.CA.IBM.PIMS.IFIN*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;The PIMS Inbound Interface dataset used to receive data from PIMS and keep the backup
+PECUPF.US.LEN.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Production datasets to store data for temporary process and backup (Lenovo Only)
+PECUPL.*;Moretto Braga, A. (Ana Silvia);Both;Source;prod;Production library used to keep programs and JCLs, related to the old code repository
+TECULQ.*;Moretto Braga, A. (Ana Silvia);Both;Lib;dev;Dev library that has very old code, not used any longer (auxiliar library)
+TECUQF.*;Moretto Braga, A. (Ana Silvia);Both;Data;dev;Dev datasets to store data for temporary process and backup
+TECUQL.*;Moretto Braga, A. (Ana Silvia);Both;Source;dev;Dev library to store code for test purposes (auxiliar library)
+TECUQL.RCA.LOADCICS;Moretto Braga, A. (Ana Silvia);Both;Source;dev;Dev library that has very old code. It's still used by CICSECD1
+IPODB4.*;Rodriguez Ortega, A. (Alejandro);Both;Lib;dev;User_id of Alejandro Ortega, the former DBA of eCustoms. It's not used on the application
+TECUTF.*;Moretto Braga, A. (Ana Silvia);Both;Data;test;Test datasets to store data for temporary process and backup
+TECUTF.CA.IBM.PIMS.IFIN.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;test;The PIMS Inbound Interface test dataset used to receive test data from PIMS and keep the backup
+TECUTF.CA.IBM.PIMS.IFIN*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;test;The PIMS Inbound Interface test dataset used to receive test data from PIMS and keep the backup
+TECUTF.US.GLF.FEC2FCT3.CTSI2TDE;Moretto Braga, A. (Ana Silvia);Both;Data;test;The TDE Outbound Interface test dataset used to send test data to old TDE interface related to GlobalFoundries
+TECUTF.US.IBM.FEC2RP51.ACEDATA;Moretto Braga, A. (Ana Silvia);Both;Data;test;The Consolidate Inbound Interface test dataset used to receive test data for the process
+TECUTL.*;Moretto Braga, A. (Ana Silvia);Both;Source;test;Test library to store code for test purposes (auxiliar library)
+TECUTL.RCA.LOADCICS;Moretto Braga, A. (Ana Silvia);Both;Source;test;Test library that has very old code. It's still used by CICSECT1
+TECUTL.RCA.ONLINLOD;Moretto Braga, A. (Ana Silvia);Both;Source;test;Test library that has very old code. It's still used by RGNT2
+PECCAL.DEV2.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;dev;Dev Library used to store load module of COBOL programs for eCustoms Online Canada (UCD library)
+PECCAL.DEV3.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;dev;Dev Library used to store load module of EGL programs for eCustoms Online Canada (UCD library)
+PECCAL.PROD2.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;prod;Prod Library used to store load module of COBOL programs for eCustoms Online Canada (UCD library)
+PECCAL.PROD3.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;prod;Prod Library used to store load module of EGL programs for eCustoms Online Canada (UCD library)
+PECCAL.STAGE2.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;stage;Stage Library used to store load module of COBOL programs for eCustoms Online Canada (UCD library)
+PECCAL.STAGE3.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;stage;Stage Library used to store load module of EGL programs for eCustoms Online Canada (UCD library)
+PECCAL.TEST2.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;test;Test Library used to store load module of COBOL programs for eCustoms Online Canada (UCD library)
+PECCAL.TEST3.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;test;Test Library used to store load module of EGL programs for eCustoms Online Canada (UCD library)
+PECCAL.ID*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;dev;Dataset used by RTC Build to compile code from RTC repository (UCD library)
+PECCAL.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;all;Root dataset used to store eCustoms Canada code repository (UCD library)
+PECCAL.BACKOUT1.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;backout;Library used to store backout code of eCustoms Batch Canada (UCD library)
+PECCAL.BACKOUT2.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;backout;Library used to store backout code of eCustoms Online Canada (UCD library)
+PECCAL.BACKOUT3.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;backout;Library used to store backout EGL code of eCustoms Online Canada (UCD library)
+PECCAL.CONFIG.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;config;Library used to store configuration data related to compiler and RTC Build for eCustoms Canada (UCD library)
+PECCAL.DEBUG.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;debug;Library used to store debug code related to repository of eCustoms Canada (UCD library)
+PECCAL.DEVTEST1.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;devtest;Library used to promote code from dev to test environments of eCustoms Batch Canada (UCD library)
+PECCAL.DEVTEST2.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;devtest;Library used to promote code from dev to test environments of eCustoms Online Canada (UCD library)
+PECCAL.DEVTEST3.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;devtest;Library used to promote EGL code from dev to test environments of eCustoms Online Canada (UCD library)
+PECCAL.DEV1.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;dev;Dev Library used to store code repository of eCustoms Batch Canada (UCD library)
+PECCAL.DEV2.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;dev;Dev Library used to store code repository of eCustoms Online Canada (UCD library)
+PECCAL.DEV3.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;dev;Dev Library used to store EGL code repository of eCustoms Online Canada (UCD library)
+PECCAL.PROD1.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;prod;Production Library used to store code repository of eCustoms Batch Canada (UCD library)
+PECCAL.PROD2.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;prod;Production Library used to store code repository of eCustoms Online Canada (UCD library)
+PECCAL.PROD3.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;prod;Production Library used to store EGL code repository of eCustoms Online Canada (UCD library)
+PECCAL.STAGE1.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;stage;Stage Library used to store code repository of eCustoms Batch Canada (UCD library)
+PECCAL.STAGE2.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;stage;Stage Library used to store code repository of eCustoms Online Canada (UCD library)
+PECCAL.STAGE3.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;stage;Stage Library used to store EGL code repository of eCustoms Online Canada (UCD library)
+PECCAL.TEST1.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;test;Test Library used to store code repository of eCustoms Batch Canada (UCD library)
+PECCAL.TEST2.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;test;Test Library used to store code repository of eCustoms Online Canada (UCD library)
+PECCAL.TEST3.*;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Source;test;Test Library used to store EGL code repository of eCustoms Online Canada (UCD library)
+PECUPF.US.IBM.FECUFCT1.CTSIBIL;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The CTSI Inbound Interface production dataset used to receive data from DSG/CTSI
+PECUPF.US.IBM.FECUFCT3.CTS0A1;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The CTSI Outbound Interface production dataset used to send data to DSG/CTSI
+PECUPF.CA.DEVOPS.MAILHDR;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCR3MAILHDR application (eCustoms Canada)
+PECUPF.CA.ONHOLD.CUSDEC.ECCAIDDN;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCR3IDDEN application and put CUSDEC/CA net on hold
+PECUPF.CA.ONHOLD.CUSDEC.ECCAIDDY;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCR3IDDEY application and release CUSDEC/CA net from hold
+PECUPF.CA.ONHOLD.CUSRES.ECCACRSN;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCR3CUSRESN application and put CUSRES/CA net on hold
+PECUPF.CA.ONHOLD.CUSRES.ECCACRSY;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCR3CUSRESY application and release CUSRES/CA net from hold
+PECUPF.CA.ONHOLD.PRODAT.ECCAPDTN;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCR3PRODATN application and put PRODAT/CA net on hold
+PECUPF.CA.ONHOLD.PRODAT.ECCAPDTY;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCR3PRODATY application and release PRODAT/CA net from hold
+PECUPF.CA.ONHOLD.VPOF.FECCVPFN;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCVPOFN application and put VPOF/CA net on hold
+PECUPF.CA.ONHOLD.VPOF.FECCVPFY;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCVPOFY application and release VPOF/CA net from hold
+PECUPF.CA.ONHOLD.WMS.ECCAWMSN;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCR3WMSN application and put ILS/CA net on hold
+PECUPF.CA.ONHOLD.WMS.ECCAWMSY;Moretto Braga, A. (Ana Silvia);eCustoms-CA;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECCR3WMSY application and release ILS/CA net from hold
+PECUPF.US.DEVOPS.ACEVSECU;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3REPACEVSECU application (ACE Reconciliation Report)
+PECUPF.US.DEVOPS.CONSOL;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3REPCONSOL application (ACE Consolidate Report)
+PECUPF.US.DEVOPS.CTSIOUT;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3CTSIOUT application (CTSI Outbound Interface)
+PECUPF.US.DEVOPS.CTSI1;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3CTSI1 application (CTSI Inbound Interface, part I)
+PECUPF.US.DEVOPS.CTSI2;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3CTSI2 application (CTSI Inbound Interface, part II)
+PECUPF.US.DEVOPS.MAILHDR;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3MAILHDR application (eCustoms US)
+PECUPF.US.DEVOPS.SPUFI;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR2ETTSPUF application. Alternate process of DDU when UCD is down
+PECUPF.US.GLF.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Production datasets to store data for temporary process and backup (GlobalFoundries Only)
+PECUPF.US.GLF.FEC2FCT3.CTSI2TDE;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The TDE Outbound Interface production dataset used to send data to old TDE interface related to GlobalFoundries
+PECUPF.US.IBM.CV.CONSOL.DELETES.CSV;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The Consolidate Inbound Interface production dataset used to receive the Delete File from Cheryl (Geodis)
+PECUPF.US.IBM.FEC2ACFM.ACEFILE;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The Reconciliation Inbound Interface production dataset used to receive data for the process
+PECUPF.US.IBM.FEC2RP51.ACEDATA;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The Consolidate Inbound Interface production dataset used to receive data for the process
+PECUPF.US.IBM.FX.CONSOL.DELETES.CSV;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The Consolidate Inbound Interface production dataset used to receive the Delete File from Cheryl (Fedex)
+PECUPF.US.IBM.GE.CONSOL.DELETES.CSV;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The Consolidate Inbound Interface production dataset used to receive the Delete File from Cheryl (Madrid Geodis)
+PECUPF.US.IBM.GT.CONSOL.DELETES.CSV;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The Consolidate Inbound Interface production dataset used to receive the Delete File from Cheryl (Gontor)
+PECUPF.US.IBM.NI.CONSOL.DELETES.CSV;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The Consolidate Inbound Interface production dataset used to receive the Delete File from Cheryl (Nippon)
+PECUPF.US.IBM.PA.CONSOL.DELETES.CSV;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The Consolidate Inbound Interface production dataset used to receive the Delete File from Cheryl (Panalpina)
+PECUPF.US.IBM.UP.CONSOL.DELETES.CSV;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;The Consolidate Inbound Interface production dataset used to receive the Delete File from Cheryl (UPS)
+PECUPF.US.ONHOLD.ABIMSG.FEC2CABN;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR2ABIMSGN application and put ABIMSG/US net on hold
+PECUPF.US.ONHOLD.ABIMSG.FEC2CABY;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR2ABIMSGY application and release ABIMSG/US net from hold
+PECUPF.US.ONHOLD.CDBCCCS.FEC2CDBN;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR2CDBCCCSN application and put CDBCCCS/US net on hold
+PECUPF.US.ONHOLD.CDBCCCS.FEC2CDBY;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR2CDBCCCSY application and release CDBCCCS/US net from hold
+PECUPF.US.ONHOLD.CUSDEC.ECUAIDDN;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3IDDECUSDN application and put CUSDEC/US net on hold
+PECUPF.US.ONHOLD.CUSDEC.ECUAIDDY;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3IDDECUSDY application and release CUSDEC/US net from hold
+PECUPF.US.ONHOLD.CUSRES.ECUACCRN;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3CUSRESN application and put CUSRES/US net on hold
+PECUPF.US.ONHOLD.CUSRES.ECUACCRY;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR3CUSRESY application and release CUSRES/US net from hold
+PECUPF.US.ONHOLD.LIQUID.FEC2CLIN;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR2LIQUIDATN application and put LIQUID/US net on hold
+PECUPF.US.ONHOLD.LIQUID.FEC2CLIY;Moretto Braga, A. (Ana Silvia);eCustoms-US;Data;prod;Dataset used by eCustoms Support Team to manually trigger the ECUR2LIQUIDATY application and release LIQUID/US net from hold
+PECUSL.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;all;Root dataset used to store eCustoms US code repository (UCD library)
+PECUSL.ID*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;dev;Dataset used by RTC Build to compile code from RTC repository (UCD library)
+PECUSL.ID*.EXEC;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;dev;Dataset used by RTC Build to compile code from RTC repository (UCD library)
+PECUSL.CONFIG.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;config;Library used to store configuration data related to compiler and RTC Build for eCustoms US (UCD library)
+PECUSL.DEV2.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;dev;Dev Library used to store load module of COBOL programs for eCustoms Online US (UCD library)
+PECUSL.DEV3.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;dev;Dev Library used to store load module of EGL programs for eCustoms Online US (UCD library)
+PECUSL.PROD2.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;prod;Prod Library used to store load module of COBOL programs for eCustoms Online US (UCD library)
+PECUSL.PROD3.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;prod;Prod Library used to store load module of EGL programs for eCustoms Online US (UCD library)
+PECUSL.STAGE2.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;stage;Stage Library used to store load module of COBOL programs for eCustoms Online US (UCD library)
+PECUSL.STAGE3.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;stage;Stage Library used to store load module of EGL programs for eCustoms Online US (UCD library)
+PECUSL.TEST2.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;test;Test Library used to store load module of COBOL programs for eCustoms Online US (UCD library)
+PECUSL.TEST3.LOADCICS;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;test;Test Library used to store load module of EGL programs for eCustoms Online US (UCD library)
+PECUSL.BACKOUT1.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;backout;Library used to store backout code of eCustoms Batch US (UCD library)
+PECUSL.BACKOUT2.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;backout;Library used to store backout code of eCustoms Online US (UCD library)
+PECUSL.BACKOUT3.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;backout;Library used to store backout EGL code of eCustoms Online US (UCD library)
+PECUSL.DEBUG.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;debug;Library used to store debug code related to repository of eCustoms US (UCD library)
+PECUSL.DEVTEST1.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;devtest;Library used to promote code from dev to test environments of eCustoms Batch US (UCD library)
+PECUSL.DEVTEST2.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;devtest;Library used to promote code from dev to test environments of eCustoms Online US (UCD library)
+PECUSL.DEVTEST3.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;devtest;Library used to promote EGL code from dev to test environments of eCustoms Online US (UCD library)
+PECUSL.DEV1.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;dev;Dev Library used to store code repository of eCustoms Batch US (UCD library)
+PECUSL.DEV2.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;dev;Dev Library used to store code repository of eCustoms Online US (UCD library)
+PECUSL.DEV3.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;dev;Dev Library used to store EGL code repository of eCustoms Online US (UCD library)
+PECUSL.PROD1.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;prod;Production Library used to store code repository of eCustoms Batch US (UCD library)
+PECUSL.PROD2.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;prod;Production Library used to store code repository of eCustoms Online US (UCD library)
+PECUSL.PROD3.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;prod;Production Library used to store EGL code repository of eCustoms Online US (UCD library)
+PECUSL.STAGE1.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;stage;Stage Library used to store code repository of eCustoms Batch US (UCD library)
+PECUSL.STAGE2.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;stage;Stage Library used to store code repository of eCustoms Online US (UCD library)
+PECUSL.STAGE3.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;stage;Stage Library used to store EGL code repository of eCustoms Online US (UCD library)
+PECUSL.TEST1.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;test;Test Library used to store code repository of eCustoms Batch US (UCD library)
+PECUSL.TEST2.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;test;Test Library used to store code repository of eCustoms Online US (UCD library)
+PECUSL.TEST3.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;test;Test Library used to store EGL code repository of eCustoms Online US (UCD library)
+SYS1.DVG.NFTPRAP.TABLE;Berganton Junior, E. (Eliseu);eCustoms-CA;Lib;all;Library that contains the RAP table settings for Netview FTP. Used by eCustoms Support team to view and request changes to NFTP team when needed
+TECCAL.ACCOUN*;Rumsey, N. (Nancy);eCustoms-CA;Lib;n/a;Library internally used by SCLM (account file)
+TECCAL.AUD*;Rumsey, N. (Nancy);eCustoms-CA;Lib;n/a;Library internally used by SCLM (audit file)
+TECCAL.CONT*;Rumsey, N. (Nancy);eCustoms-CA;Lib;n/a;Library internally used by SCLM (control file)
+TECCAL.DEV.LOADCICS;Rumsey, N. (Nancy);eCustoms-CA;Source;n/a;Dev Library used to store load modules of eCustoms Online Canada (SCLM library). Used by CICSECD1 and RGNQ/RGNQ2
+TECCAL.DEV1.LOADCICS;Rumsey, N. (Nancy);eCustoms-CA;Source;n/a;Dev Library used to store load modules of eCustoms Online Canada (SCLM library)
+TECCAL.PROD.LOADCICS;Rumsey, N. (Nancy);eCustoms-CA;Source;prod;Production Library used to store load modules of eCustoms Online Canada (SCLM library). Used by CICSECP1 and REGION8
+TECCAL.PROJ*;Rumsey, N. (Nancy);eCustoms-CA;Lib;n/a;Library internally used by SCLM (project definition file)
+TECCAL.TEST.LOADCICS;Rumsey, N. (Nancy);eCustoms-CA;Source;test;Test Library used to store load modules of eCustoms Online Canada (SCLM library). Used by CICSECT1 and RGNT/RGNT2
+TECCAL.*;Rumsey, N. (Nancy);eCustoms-CA;Source;n/a;Root dataset used to store eCustoms Canada code repository (SCLM library)
+TECCAL.EFI*;Rumsey, N. (Nancy);eCustoms-CA;Source;dev;Library used by eCustoms Support team to promote code fixes on SCLM
+TECCAL.PROD.PROMOTE.REPORT.*;Rumsey, N. (Nancy);eCustoms-CA;Lib;prod;Library used to store report of production deployments (SCLM library)
+TECUSL.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;n/a;Root dataset used to store eCustoms US code repository (SCLM library)
+TECUSL.ACCOUN*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Lib;n/a;Library internally used by SCLM (account file)
+TECUSL.AUD*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Lib;n/a;Library internally used by SCLM (audit file)
+TECUSL.CONT*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Lib;n/a;Library internally used by SCLM (control file)
+TECUSL.EFI*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Lib;dev;Library used by eCustoms Support team to promote code fixes on SCLM
+TECUSL.PROD.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;prod;Production Library used to store generic code repository of eCustoms US (SCLM library)
+TECUSL.PROD.PROMOTE*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;prod;Library used to store report of production deployments (SCLM library)
+TECUSL.PROJ*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Lib;n/a;Library internally used by SCLM (project definition file)
+TECUSL.STAGE.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;stage;Stage Library used to store generic code repository of eCustoms US (SCLM library)
+TECUSL.DEV.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;dev;Dev Library used to store generic code repository of eCustoms US (SCLM library)
+TECUSL.DEVTEST.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;devtest;Library used to promote code from dev to test environment of eCustoms US (SCLM library)
+TECUSL.DEVTEST1.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;devtest;Library used to promote code from dev to test environment of eCustoms US (SCLM library)
+TECUSL.DEV1.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;dev;Dev Library used to store generic code repository of eCustoms US (SCLM library)
+TECUSL.TEST.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;test;Test Library used to store generic code repository of eCustoms US (SCLM library)
+TECUSL.TEST1.*;Moretto Braga, A. (Ana Silvia);eCustoms-US;Source;test;Test Library used to store generic code repository of eCustoms US (SCLM library)
+IADM.IUO.*;Pavao Junior, P. (Paulo Roberto);eCustoms-US;Lib;n/a;I could not find any use currently. It seems to be related to IDM/DDB
+SYS1.LOADLIB;Berganton Junior, E. (Eliseu);Both;Lib;dev;Library internally used by SCLM compiler
+SYS1.UCD.*;Berganton Junior, E. (Eliseu);Both;Lib;dev;Library internally used by UCD Agent to allow useres to create version and deploy elements
+TESTIMS.*;Alves De Paula, L. (Leandro);Both;Lib;dev;Used by the eCustoms US/CA compilers

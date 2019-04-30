@@ -1,0 +1,575 @@
+APPLICATION_NAME;SERIAL;CC;EMPLOYEE_NAME;GENERAL STATUS;USERID;EMAILADDRESS;EMP DEPT;REQ_CREATE_DATE;STAT_UPD_DATE;INPUT_FORM_FIELD;INPUT_FORM_VAL
+E-CUSTOMS US APPLICATION;0J6112;897;Alexander Garcia;GRANTED;E0J6112;agarcia@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6112;897;Alexander Garcia;GRANTED;E0J6112;agarcia@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6112;897;Alexander Garcia;GRANTED;E0J6112;agarcia@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6112;897;Alexander Garcia;GRANTED;E0J6112;agarcia@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6112;897;Alexander Garcia;GRANTED;E0J6112;agarcia@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6112;897;Alexander Garcia;GRANTED;E0J6112;agarcia@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;0J6342;897;Andrea Sparey;GRANTED;#0J6342;us0j6342@lg.idepc.ibm.com;8LYA;16/10/2017;24/10/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;43519;781;Angel Adrian Garcia Espinoza;GRANTED;#054971;angelgar@mx1.ibm.com;C804;08/03/2019;12/03/2019;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;43519;781;Angel Adrian Garcia Espinoza;GRANTED;#054971;angelgar@mx1.ibm.com;C804;08/03/2019;12/03/2019;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;43519;781;Angel Adrian Garcia Espinoza;GRANTED;#054971;angelgar@mx1.ibm.com;C804;08/03/2019;12/03/2019;IBM Production - Online eCustoms US application;Ship to Bill
+E-CUSTOMS US APPLICATION;43519;781;Angel Adrian Garcia Espinoza;GRANTED;JUANCAR;angelgar@mx1.ibm.com;C804;26/03/2019;27/03/2019;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;43519;781;Angel Adrian Garcia Espinoza;GRANTED;JUANCAR;angelgar@mx1.ibm.com;C804;26/03/2019;27/03/2019;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;43519;781;Angel Adrian Garcia Espinoza;GRANTED;JUANCAR;angelgar@mx1.ibm.com;C804;26/03/2019;27/03/2019;IBM Production - Online eCustoms US application;Ship to Bill
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Test - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Test - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Test - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Test - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;eCustoms US DB2 Test;ECUSTRD - for eCustoms table views in test
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Test - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;06/07/2015;07/07/2015;IBM Test - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;05/01/2017;05/01/2017;eCustoms US Profiles;TECUSLB - Only for Business Analysts
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;A112636;anasm@br.ibm.com;RW1441;26/06/2017;28/06/2017;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Classification Update
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;eCustoms US DB2 Test;ECUSTUP - for eCustoms table update in test
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;NEPA releaser
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Preprocessor Delete
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Ship to Bill
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;eCustoms US Profiles;TECUSLB - Only for Business Analysts
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;112636;631;ANA SILVIA MORETTO BRAGA;GRANTED;ECTESTS;anasm@br.ibm.com;RW1441;04/07/2017;10/07/2017;IBM Test - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;3A9687;897;Arlene O. Ranay-Parazak;GRANTED;L859124;aranay@us.ibm.com;5LHA;15/07/2015;16/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;02860J;744;Arockia L. Dass;GRANTED;#02860J;arocdass@in.ibm.com;PED;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;02860J;744;Arockia L. Dass;GRANTED;#02860J;arocdass@in.ibm.com;PED;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6010;897;Benjamin Romo;GRANTED;M0J6010;bromo@geodis.vnet.ibm.com;6H8A;26/11/2018;28/11/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;CUSRES Delete
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;NEPA releaser
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;Preprocessor Delete
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;Ship to Bill
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;23/10/2017;24/10/2017;IBM Test - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;eCustoms US DB2 Test;ECUSTUP - for eCustoms table update in test
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Test - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;eCustoms US Profiles;TECUSLB - Only for Business Analysts
+E-CUSTOMS US APPLICATION;1J7337;897;Beth McGovern-Bell;GRANTED;BETHBEL;beth.mcgovern-bell1@ibm.com;NN3A;28/02/2018;28/02/2018;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;A69852;693;Bibiana Ruzickova;GRANTED;GLSO2;bibiana.ruzickova@sk.ibm.com;2506;19/06/2015;25/06/2015;eCustoms US Profiles;ECUMPCIC - Only for Security Officer
+E-CUSTOMS US APPLICATION;A69852;693;Bibiana Ruzickova;GRANTED;GLSO2;bibiana.ruzickova@sk.ibm.com;2506;19/06/2015;25/06/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6304;897;Bill Manley;GRANTED;#0J6304;bmanle37@iespc.ibm.com;8LYA;19/12/2017;21/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6110;897;Brian Brissett;GRANTED;E0J6110;bbrisset@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6110;897;Brian Brissett;GRANTED;E0J6110;bbrisset@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6110;897;Brian Brissett;GRANTED;E0J6110;bbrisset@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6110;897;Brian Brissett;GRANTED;E0J6110;bbrisset@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6110;897;Brian Brissett;GRANTED;E0J6110;bbrisset@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6110;897;Brian Brissett;GRANTED;E0J6110;bbrisset@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;ZZ00HK;820;Bright Kelechi Okpaleke;GRANTED;#ZZ00HK;okpaleke.bright@pl.ibm.com;03I01;16/06/2018;19/06/2018;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;ZZ00HK;820;Bright Kelechi Okpaleke;GRANTED;#ZZ00HK;okpaleke.bright@pl.ibm.com;03I01;16/06/2018;19/06/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6117;897;Brittany Massaro;GRANTED;E0J6117;bmassaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6117;897;Brittany Massaro;GRANTED;E0J6117;bmassaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6117;897;Brittany Massaro;GRANTED;E0J6117;bmassaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6117;897;Brittany Massaro;GRANTED;E0J6117;bmassaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6117;897;Brittany Massaro;GRANTED;E0J6117;bmassaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6117;897;Brittany Massaro;GRANTED;E0J6117;bmassaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;AVNJD4;672;Cai Chen;GRANTED;CNOP666;szccai@cn.ibm.com;OAG;26/03/2019;27/03/2019;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;ZZ008Y;781;Carlos Lopez;GRANTED;MZZ008Y;clopez48@iespc.ibm.com;0DIS;16/05/2018;18/05/2018;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;ZZ008Y;781;Carlos Lopez;GRANTED;MZZ008Y;clopez48@iespc.ibm.com;0DIS;16/05/2018;18/05/2018;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;ZZ008Y;781;Carlos Lopez;GRANTED;MZZ008Y;clopez48@iespc.ibm.com;0DIS;16/05/2018;18/05/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;ZZ008Y;781;Carlos Lopez;GRANTED;MZZ008Y;clopez48@iespc.ibm.com;0DIS;16/05/2018;18/05/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;Classification Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;Classification Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;eCustoms US DB2 Test;ECUSTRD - for eCustoms table views in test
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;NEPA releaser
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;NEPA releaser
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;Preprocessor Delete
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;Preprocessor Delete
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;Ship to Bill
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;Ship to Bill
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;BABOVEC;babovec@us.ibm.com;18XA;16/05/2018;17/05/2018;IBM Test - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Classification Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Preprocessor Delete
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Ship to Bill
+E-CUSTOMS US APPLICATION;C-FL4N;897;Cheryl Babovec;GRANTED;AMEN;babovec@us.ibm.com;18XA;07/08/2018;08/08/2018;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;217858;672;CHUN CHEN XU;GRANTED;CNPSA21;chunchxu@cn.ibm.com;OAG;15/07/2015;15/07/2015;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;217858;672;CHUN CHEN XU;GRANTED;CNPSA21;chunchxu@cn.ibm.com;OAG;15/07/2015;15/07/2015;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;898981;897;Claudia A. Zsevc;GRANTED;#898981;claudiaz@us.ibm.com;287A;22/06/2018;26/06/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;273545;897;Clifford M. Peterson;GRANTED;#273545;cpeterso@us.ibm.com;FQ6A;15/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;9364-B;897;Contessa Pefley;GRANTED;TESSAP;tessap@us.ibm.com;18XA;07/05/2018;07/05/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;9364-B;897;Contessa Pefley;GRANTED;TESSAP;tessap@us.ibm.com;18XA;07/05/2018;07/05/2018;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;0J6244;897;Craig Campbell;GRANTED;#C0YYH;us0j6244@lg.idepc.ibm.com;6H8A;28/06/2018;03/07/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;909747;897;Craig M. Kyllo;GRANTED;CKYLLO;ckyllo@us.ibm.com;44QA;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;08/02/2017;09/02/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;08/02/2017;09/02/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;09/02/2017;14/02/2017;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;09/02/2017;14/02/2017;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;09/02/2017;14/02/2017;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;09/02/2017;14/02/2017;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;09/02/2017;14/02/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;09/02/2017;14/02/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;09/02/2017;14/02/2017;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;09/02/2017;14/02/2017;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;6667;649;Craig Patterson;GRANTED;AT06667;craigp@ca.ibm.com;C81;09/02/2017;14/02/2017;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;A265PA;897;Cristi Miller;GRANTED;C8LWF;crmiller@geodis.vnet.ibm.com;6H8A;15/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;22690;897;Daniel R. Cordova;GRANTED;DCORDOV;cordovad@us.ibm.com;5LHA;14/07/2015;16/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;22690;897;Daniel R. Cordova;GRANTED;DCORDOV;cordovad@us.ibm.com;5LHA;14/07/2015;16/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;22690;897;Daniel R. Cordova;GRANTED;DCORDOV;cordovad@us.ibm.com;5LHA;14/07/2015;16/07/2015;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Classification Update
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Ship to Bill
+E-CUSTOMS US APPLICATION;669931;897;David L. Rosengrant;GRANTED;ROSENG;roseng@us.ibm.com;5LHA;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;58693;781;DAVID CHAVEZ MORALES;GRANTED;#058693;david.chavez@ibm.com;C804;17/04/2018;19/04/2018;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;58693;781;DAVID CHAVEZ MORALES;GRANTED;#058693;david.chavez@ibm.com;C804;17/04/2018;19/04/2018;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;58693;781;DAVID CHAVEZ MORALES;GRANTED;#058693;david.chavez@ibm.com;C804;17/04/2018;19/04/2018;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;58693;781;DAVID CHAVEZ MORALES;GRANTED;#058693;david.chavez@ibm.com;C804;17/04/2018;19/04/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;58693;781;DAVID CHAVEZ MORALES;GRANTED;#058693;david.chavez@ibm.com;C804;17/04/2018;19/04/2018;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;58693;781;DAVID CHAVEZ MORALES;GRANTED;#058693;david.chavez@ibm.com;C804;17/04/2018;19/04/2018;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;7D2692;897;DAVID F. DONNDELINGER;GRANTED;DONNDEL;ddonn@us.ibm.com;GTGA;11/06/2018;14/06/2018;IBM Production - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;7D2692;897;DAVID F. DONNDELINGER;GRANTED;DONNDEL;ddonn@us.ibm.com;GTGA;11/06/2018;14/06/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;7D2692;897;DAVID F. DONNDELINGER;GRANTED;DONNDEL;ddonn@us.ibm.com;GTGA;11/06/2018;14/06/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;7D2692;897;DAVID F. DONNDELINGER;GRANTED;DONNDEL;ddonn@us.ibm.com;GTGA;01/04/2019;02/04/2019;IBM Production - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;7D2692;897;DAVID F. DONNDELINGER;GRANTED;DONNDEL;ddonn@us.ibm.com;GTGA;01/04/2019;02/04/2019;IBM Test - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;7D2692;897;DAVID F. DONNDELINGER;GRANTED;DONNDEL;ddonn@us.ibm.com;GTGA;01/04/2019;02/04/2019;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;7D2692;897;DAVID F. DONNDELINGER;GRANTED;DONNDEL;ddonn@us.ibm.com;GTGA;01/04/2019;02/04/2019;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;7D2692;897;DAVID F. DONNDELINGER;GRANTED;DONNDEL;ddonn@us.ibm.com;GTGA;01/04/2019;02/04/2019;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6484;897;De'Andra Hatten;GRANTED;#0J6484;dhatte89@iespc.ibm.com;8LYA;02/02/2018;05/02/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;1J3592;897;Derek Schiff;GRANTED;#1J3592;us1j3592@lg.idepc.ibm.com;8LYA;01/08/2018;06/08/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;107906;897;Edward W. Dunkin;GRANTED;$107906;edunkin@us.ibm.com;5LHA;14/07/2015;16/07/2015;IBM Production - Online eCustoms US application;Classification Update
+E-CUSTOMS US APPLICATION;107906;897;Edward W. Dunkin;GRANTED;$107906;edunkin@us.ibm.com;5LHA;14/07/2015;16/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;107906;897;Edward W. Dunkin;GRANTED;$107906;edunkin@us.ibm.com;5LHA;14/07/2015;16/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;IBM Test - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;eCustoms US DB2 Test;ECUSTRD - for eCustoms table views in test
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;IBM Production - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;IBM Test - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;IBM Test - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;ZZ003J;781;Efren Jimenez;GRANTED;EL797PA;mxzz003j@lg.idepc.ibm.com;727;06/12/2017;08/12/2017;IBM Test - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;04604B;781;Elia Karen K. Estrada Alfaro;GRANTED;MMRODRI;elia.estrada@ibm.com;C804;21/08/2017;28/08/2017;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;04604B;781;Elia Karen K. Estrada Alfaro;GRANTED;MMRODRI;elia.estrada@ibm.com;C804;21/08/2017;28/08/2017;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;04604B;781;Elia Karen K. Estrada Alfaro;GRANTED;MMRODRI;elia.estrada@ibm.com;C804;21/08/2017;28/08/2017;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;04604B;781;Elia Karen K. Estrada Alfaro;GRANTED;MMRODRI;elia.estrada@ibm.com;C804;21/08/2017;28/08/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;04604B;781;Elia Karen K. Estrada Alfaro;GRANTED;MMRODRI;elia.estrada@ibm.com;C804;21/08/2017;28/08/2017;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;04604B;781;Elia Karen K. Estrada Alfaro;GRANTED;MMRODRI;elia.estrada@ibm.com;C804;21/08/2017;28/08/2017;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;0J6118;897;Elisha Vasquez;GRANTED;E0J6118;evasquez@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6118;897;Elisha Vasquez;GRANTED;E0J6118;evasquez@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6118;897;Elisha Vasquez;GRANTED;E0J6118;evasquez@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6118;897;Elisha Vasquez;GRANTED;E0J6118;evasquez@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6118;897;Elisha Vasquez;GRANTED;E0J6118;evasquez@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6118;897;Elisha Vasquez;GRANTED;E0J6118;evasquez@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;68165;649;Emelie Benoit;GRANTED;EBENOIT;ebenoit@ca.ibm.com;KFU;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;1J3618;897;Emily Valle;GRANTED;#1J3618;evalle07@iespc.ibm.com;8LYA;31/10/2018;02/11/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;ZZ00DN;781;Fernanda Salas;GRANTED;MZZ00DN;mxzz00dn@lg.idepc.ibm.com;0DIS;03/01/2019;07/01/2019;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;ZZ00DN;781;Fernanda Salas;GRANTED;MZZ00DN;mxzz00dn@lg.idepc.ibm.com;0DIS;03/01/2019;07/01/2019;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;ZZ00DN;781;Fernanda Salas;GRANTED;MZZ00DN;mxzz00dn@lg.idepc.ibm.com;0DIS;03/01/2019;07/01/2019;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;ZZ00DN;781;Fernanda Salas;GRANTED;MZZ00DN;mxzz00dn@lg.idepc.ibm.com;0DIS;03/01/2019;07/01/2019;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;C-6GXD;897;Fikeni Mbazi;GRANTED;FMBAZI;fmbazi@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;10/01/2017;25/01/2017;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Test - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Test - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Test - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Test - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;eCustoms US DB2 Test;ECUSTRD - for eCustoms table views in test
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Test - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Test - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;eCustoms US Profiles;TECUSLP - Only for Development Team
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;117888;631;FULVIO KITAKAWA;GRANTED;FKITA;fkita@br.ibm.com;889021;25/07/2017;25/07/2017;IBM Test - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;06720A;744;Gokul N. Subramaniapillai;GRANTED;#06720A;gokulnat@in.ibm.com;PED;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;06720A;744;Gokul N. Subramaniapillai;GRANTED;#06720A;gokulnat@in.ibm.com;PED;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;21013;672;Hai Hua Wang;GRANTED;CNPSA11;wanghhsh@cn.ibm.com;YHU;03/10/2017;10/10/2017;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;21013;672;Hai Hua Wang;GRANTED;CNPSA11;wanghhsh@cn.ibm.com;YHU;03/10/2017;10/10/2017;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;AB25PA;897;Hortencia Escalera;GRANTED;AB25PA;hescaler@geodis.vnet.ibm.com;6H8A;03/07/2015;08/07/2015;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6563;897;Hortencia Escalera;GRANTED;M0J6563;hescal24@iespc.ibm.com;6H8A;26/11/2018;28/11/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;73089;649;Ian-Andrew Knowlton;GRANTED;#KNOW;iknowlto@ca.ibm.com;KEM;14/07/2015;15/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;73089;649;Ian-Andrew Knowlton;GRANTED;#KNOW;iknowlto@ca.ibm.com;KEM;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;ZZ01LP;820;Irina JabÅÇoÅÑska;GRANTED;ZZ01LP;irina.jablonska@ibm.com;03I01;30/05/2018;07/06/2018;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;ZZ01LP;820;Irina JabÅÇoÅÑska;GRANTED;ZZ01LP;irina.jablonska@ibm.com;03I01;30/05/2018;07/06/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;90761;631;ISMAEL BIOTO;GRANTED;GRISMA;ibioto@br.ibm.com;889021;09/05/2016;13/05/2016;eCustoms US DB2 Test;ECUSTUP - for eCustoms table update in test
+E-CUSTOMS US APPLICATION;07903A;744;Jagadish B. Mahadev;GRANTED;#07903A;jagmahad@in.ibm.com;PED;28/07/2015;28/07/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;07903A;744;Jagadish B. Mahadev;GRANTED;#07903A;jagmahad@in.ibm.com;PED;28/07/2015;28/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6580;897;Janna Gray;GRANTED;E0J6580;jgray60@iespc.ibm.com;6H8A;12/03/2019;27/03/2019;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6580;897;Janna Gray;GRANTED;E0J6580;jgray60@iespc.ibm.com;6H8A;12/03/2019;27/03/2019;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6580;897;Janna Gray;GRANTED;E0J6580;jgray60@iespc.ibm.com;6H8A;12/03/2019;27/03/2019;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6580;897;Janna Gray;GRANTED;E0J6580;jgray60@iespc.ibm.com;6H8A;12/03/2019;27/03/2019;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6580;897;Janna Gray;GRANTED;E0J6580;jgray60@iespc.ibm.com;6H8A;12/03/2019;27/03/2019;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6580;897;Janna Gray;GRANTED;E0J6580;jgray60@iespc.ibm.com;6H8A;12/03/2019;27/03/2019;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;1J3586;897;Jason Heath;GRANTED;#1J3586;us1j3586@lg.idepc.ibm.com;8LYA;31/07/2018;01/08/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;54014;649;Jean-Francois Racine;GRANTED;RECINE;jfracine@ca.ibm.com;KEM;16/05/2018;18/05/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;54014;649;Jean-Francois Racine;GRANTED;RECINE;jfracine@ca.ibm.com;KEM;16/05/2018;18/05/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6299;897;Jennifer Martin;GRANTED;#0J6299;jmarti53@iespc.ibm.com;8LYA;28/09/2017;11/10/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;MJ67PA;897;Jennifer Pierce;GRANTED;CEREPI;pjeniffe@geodis.vnet.ibm.com;6H8A;04/04/2016;04/04/2016;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;38655;672;Jie Peng;GRANTED;CNPSA89;pengjpj@cn.ibm.com;YHU;24/05/2016;25/05/2016;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;38655;672;Jie Peng;GRANTED;CNPSA89;pengjpj@cn.ibm.com;YHU;24/05/2016;25/05/2016;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;19701;672;Jin Yu Ou;GRANTED;CNPSA20;oujy@cn.ibm.com;OAG;15/07/2015;15/07/2015;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;AVP029;672;Jing Huan Chen;GRANTED;CAVP029;chenjh@cn.ibm.com;Z59;03/12/2018;03/12/2018;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;0J6405;897;Jo Maynard;GRANTED;#0J6405;jmayna26@iespc.ibm.com;8LYA;20/12/2017;21/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6488;897;John Jackson;GRANTED;#0J6488;jjacks53@iespc.ibm.com;8LYA;02/02/2018;05/02/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Test - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;eCustoms US DB2 Test;ECUSTRD - for eCustoms table views in test
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Test - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Test - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Production - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Test - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Test - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;ZZ00BF;781;Jose Leon;GRANTED;MZZ00BF;jleon62@iespc.ibm.com;0DIS;20/02/2018;21/02/2018;IBM Test - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;1J3619;897;Joyce Dalton;GRANTED;#1J3619;jdalto40@iespc.ibm.com;8LYA;31/10/2018;02/11/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;30897;613;Juan Ignacio Durante;GRANTED;NICO10;durante@ar.ibm.com;1443;15/07/2015;16/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;30897;613;Juan Ignacio Durante;GRANTED;D027696;durante@ar.ibm.com;1443;15/07/2015;16/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;30897;613;Juan Ignacio Durante;GRANTED;NICO10;durante@ar.ibm.com;1443;15/07/2015;16/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;30897;613;Juan Ignacio Durante;GRANTED;NICO10;durante@ar.ibm.com;1443;15/07/2015;16/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;51500;613;Julieta Sawai;GRANTED;SAWAIJU;sawaiju@ar.ibm.com;694;28/07/2017;31/07/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;51500;613;Julieta Sawai;GRANTED;SAWAIJU;sawaiju@ar.ibm.com;694;28/07/2017;31/07/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;29276;672;Kui Jia Zhao;GRANTED;CNPSA82;zkjzhao@cn.ibm.com;YHU;05/06/2018;07/06/2018;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;29276;672;Kui Jia Zhao;GRANTED;CNPSA82;zkjzhao@cn.ibm.com;YHU;05/06/2018;07/06/2018;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;C-8LWS;897;Lashonda Rogers;GRANTED;C8LWS;lrogers@geodis.vnet.ibm.com;6H8A;03/07/2015;08/07/2015;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6557;897;LaShonda Rogers;GRANTED;M0J6557;lroger89@iespc.ibm.com;6H8A;29/11/2018;03/12/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;17579;631;Leticia Yasmin Luiz;GRANTED;GRYAS;letyas@br.ibm.com;889021;08/07/2016;11/07/2016;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;17579;631;Leticia Yasmin Luiz;GRANTED;GRYAS;letyas@br.ibm.com;889021;08/07/2016;11/07/2016;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;17579;631;Leticia Yasmin Luiz;GRANTED;GRYAS;letyas@br.ibm.com;889021;08/07/2016;11/07/2016;eCustoms US DB2 Test;ECUSTUP - for eCustoms table update in test
+E-CUSTOMS US APPLICATION;ZZ055B;672;Ling Chen;GRANTED;CZZ055B;clszb@cn.ibm.com;YHU;23/12/2018;07/01/2019;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;A027PA;897;Lisa Garvin;GRANTED;A027PA;lgarvin@geodis.vnet.ibm.com;6H8A;15/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;A027PA;897;Lisa Garvin;GRANTED;A027PA;lgarvin@geodis.vnet.ibm.com;6H8A;15/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;A027PA;897;Lisa Garvin;GRANTED;A027PA;lgarvin@geodis.vnet.ibm.com;6H8A;15/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;A040PA;897;Lisa Highfill;GRANTED;A040PA;lhighfil@geodis.vnet.ibm.com;6H8A;15/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;A040PA;897;Lisa Highfill;GRANTED;A040PA;lhighfil@geodis.vnet.ibm.com;6H8A;15/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;C-BY26;897;Lisa Parnell;GRANTED;PARNELL;lparnell@us.ibm.com;18XA;07/05/2018;07/05/2018;IBM Production - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;C-BY26;897;Lisa Parnell;GRANTED;PARNELL;lparnell@us.ibm.com;18XA;07/05/2018;07/05/2018;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;C-BY26;897;Lisa Parnell;GRANTED;PARNELL;lparnell@us.ibm.com;18XA;07/05/2018;07/05/2018;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;C-BY26;897;Lisa Parnell;GRANTED;PARNELL;lparnell@us.ibm.com;18XA;07/05/2018;07/05/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;C-BY26;897;Lisa Parnell;GRANTED;PARNELL;lparnell@us.ibm.com;18XA;07/05/2018;07/05/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;C-BY26;897;Lisa Parnell;GRANTED;PARNELL;lparnell@us.ibm.com;18XA;07/05/2018;07/05/2018;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;217963;672;Liu Jing Qiu;GRANTED;CNOP029;liujqiu@cn.ibm.com;OAG;12/03/2018;12/03/2018;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;0J6558;897;Lizbeth Gomez;GRANTED;M0J6558;lgomez09@iespc.ibm.com;6H8A;26/11/2018;28/11/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6551;897;Lorena Garcia;GRANTED;M0J6551;lgarci93@iespc.ibm.com;6H8A;26/11/2018;28/11/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6109;897;Luigi Chiaro;GRANTED;E0J6109;lchiaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6109;897;Luigi Chiaro;GRANTED;E0J6109;lchiaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6109;897;Luigi Chiaro;GRANTED;E0J6109;lchiaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6109;897;Luigi Chiaro;GRANTED;E0J6109;lchiaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6109;897;Luigi Chiaro;GRANTED;E0J6109;lchiaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6109;897;Luigi Chiaro;GRANTED;E0J6109;lchiaro@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;A332PA;897;Luis C. Gonzalez;GRANTED;A332PA;lgonzale@geodis.vnet.ibm.com;6H8A;15/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;A332PA;897;Luis C. Gonzalez;GRANTED;A332PA;lgonzale@geodis.vnet.ibm.com;6H8A;15/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Test - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Test - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Test - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Test - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;eCustoms US DB2 Test;ECUSTRD - for eCustoms table views in test
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Test - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Test - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;eCustoms US Profiles;TECUSLP - Only for Development Team
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;54071;631;LUCAS MARTINS MENEZES;GRANTED;LUCASMA;lucasma@br.ibm.com;RW1441;11/07/2017;12/07/2017;IBM Test - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;A560PA;897;Marcie Smith;GRANTED;A560PA;msmith@geodis.vnet.ibm.com;6H8A;30/06/2015;02/07/2015;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;AF38PA;897;Margaret Obrien;GRANTED;AF38PA;mobrien@geodis.vnet.ibm.com;6H8A;30/06/2015;02/07/2015;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;1J3585;897;Mark Anderson;GRANTED;#1J3585;us1j3585@lg.idepc.ibm.com;8LYA;31/07/2018;01/08/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6347;897;Matt Craven;GRANTED;#0J6347;mcrave93@iespc.ibm.com;8LYA;19/10/2017;24/10/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;1G7575;897;MARCUS CLEMONS;GRANTED;S1847B;mclemon@us.ibm.com;GTGA;24/01/2018;25/01/2018;IBM Production - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;1G7575;897;MARCUS CLEMONS;GRANTED;S1847B;mclemon@us.ibm.com;GTGA;25/06/2018;27/06/2018;IBM Production - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;1G7575;897;MARCUS CLEMONS;GRANTED;S1847B;mclemon@us.ibm.com;GTGA;25/06/2018;27/06/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;1G7575;897;MARCUS CLEMONS;GRANTED;S1847B;mclemon@us.ibm.com;GTGA;25/06/2018;27/06/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;67468;613;MARIA CAROLINA OBERST;GRANTED;ECUSUS3;carolina@ar.ibm.com;1443;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;67468;613;MARIA CAROLINA OBERST;GRANTED;ECUSUS3;carolina@ar.ibm.com;1443;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;67468;613;MARIA CAROLINA OBERST;GRANTED;ECUSUS3;carolina@ar.ibm.com;1443;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;67468;613;MARIA CAROLINA OBERST;GRANTED;ECUSUS3;carolina@ar.ibm.com;1443;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;67468;613;MARIA CAROLINA OBERST;GRANTED;ECUSUS3;carolina@ar.ibm.com;1443;03/07/2015;06/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;67468;613;MARIA CAROLINA OBERST;GRANTED;ECUSUS3;carolina@ar.ibm.com;1443;03/07/2015;06/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;67468;613;MARIA CAROLINA OBERST;GRANTED;ECUSUS3;carolina@ar.ibm.com;1443;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;67468;613;MARIA CAROLINA OBERST;GRANTED;ECUSUS3;carolina@ar.ibm.com;1443;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;67468;613;MARIA CAROLINA OBERST;GRANTED;ECUSUS3;carolina@ar.ibm.com;1443;03/07/2015;06/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;6G0008;897;MATTHEW I. RUSTIN;GRANTED;MRUSTIN;mirustin@us.ibm.com;GTGA;10/10/2018;29/10/2018;IBM Production - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;0J6111;897;Meghan Clancy;GRANTED;E0J6111;mclancy@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6111;897;Meghan Clancy;GRANTED;E0J6111;mclancy@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6111;897;Meghan Clancy;GRANTED;E0J6111;mclancy@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6111;897;Meghan Clancy;GRANTED;E0J6111;mclancy@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6111;897;Meghan Clancy;GRANTED;E0J6111;mclancy@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6111;897;Meghan Clancy;GRANTED;E0J6111;mclancy@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;0J6116;897;Melissa Andrews;GRANTED;E0J6116;mandrews@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6116;897;Melissa Andrews;GRANTED;E0J6116;mandrews@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6116;897;Melissa Andrews;GRANTED;E0J6116;mandrews@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6116;897;Melissa Andrews;GRANTED;E0J6116;mandrews@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6116;897;Melissa Andrews;GRANTED;E0J6116;mandrews@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6116;897;Melissa Andrews;GRANTED;E0J6116;mandrews@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;ZZ02NG;820;MichaÅÇ Szubert;GRANTED;PZZ02NG;michal.szubert@ibm.com;03I01;05/04/2019;08/04/2019;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;ZZ02NG;820;MichaÅÇ Szubert;GRANTED;PZZ02NG;michal.szubert@ibm.com;03I01;05/04/2019;08/04/2019;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;ZZ01SC;820;MichaÅÇ Z. KoÅÇaczek;GRANTED;PLZ01SC;michal.kolaczek@ibm.com;03I01;30/05/2018;30/05/2018;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;ZZ01SC;820;MichaÅÇ Z. KoÅÇaczek;GRANTED;PLZ01SC;michal.kolaczek@ibm.com;03I01;30/05/2018;30/05/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;C-17P7;897;Michael Anderson;GRANTED;MIKEAND;andemike@us.ibm.com;KKBA;14/07/2015;15/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;C-17P7;897;Michael Anderson;GRANTED;MIKEAND;andemike@us.ibm.com;KKBA;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;907901;897;Michael C. Frain;GRANTED;MFRAIN;mfrain@us.ibm.com;5LHA;09/07/2015;16/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;907901;897;Michael C. Frain;GRANTED;MFRAIN;mfrain@us.ibm.com;5LHA;09/07/2015;16/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;C-3L4L;897;Michelle Anderson;GRANTED;AC3L4L;mmanders@us.ibm.com;18XA;02/05/2018;03/05/2018;IBM Production - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;C-3L4L;897;Michelle Anderson;GRANTED;AC3L4L;mmanders@us.ibm.com;18XA;02/05/2018;03/05/2018;IBM Test - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;C-3L4L;897;Michelle Anderson;GRANTED;AC3L4L;mmanders@us.ibm.com;18XA;02/05/2018;03/05/2018;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;C-3L4L;897;Michelle Anderson;GRANTED;AC3L4L;mmanders@us.ibm.com;18XA;02/05/2018;03/05/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;C-3L4L;897;Michelle Anderson;GRANTED;AC3L4L;mmanders@us.ibm.com;18XA;02/05/2018;03/05/2018;eCustoms US DB2 Test;ECUSTUP - for eCustoms table update in test
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Test - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;eCustoms US DB2 Test;ECUSTRD - for eCustoms table views in test
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Test - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Test - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Production - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Test - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Test - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;ZZ0029;781;Monica Urena;GRANTED;ELC50PA;mxzz0029@lg.idepc.ibm.com;727;29/05/2018;30/05/2018;IBM Test - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;C-4S9T;897;Nancye Queen;GRANTED;NQUEEN;nqueen@us.ibm.com;18XA;07/05/2018;07/05/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;C-4S9T;897;Nancye Queen;GRANTED;NQUEEN;nqueen@us.ibm.com;18XA;07/05/2018;07/05/2018;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;C-4S9T;897;Nancye Queen;GRANTED;NQUEEN;nqueen@us.ibm.com;18XA;07/05/2018;07/05/2018;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;ZZ0050;781;Nayeli Arellano;GRANTED;MLC83PA;narell05@iespc.ibm.com;0DIS;06/12/2017;08/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6369;897;Nicaia Nash;GRANTED;#0J6369;us0j6369@lg.idepc.ibm.com;8LYA;28/11/2017;28/11/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6115;897;Nicholas Speca;GRANTED;E0J6115;nspaca@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6115;897;Nicholas Speca;GRANTED;E0J6115;nspaca@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6115;897;Nicholas Speca;GRANTED;E0J6115;nspaca@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6115;897;Nicholas Speca;GRANTED;E0J6115;nspaca@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6115;897;Nicholas Speca;GRANTED;E0J6115;nspaca@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6115;897;Nicholas Speca;GRANTED;E0J6115;nspaca@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;1J3591;897;Niquisha Kimble;GRANTED;#1J3591;us1j3591@lg.idepc.ibm.com;8LYA;31/07/2018;06/08/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;A338PA;897;Pamela Jones-McKinzie;GRANTED;A338PA;pjonesmc@geodis.vnet.ibm.com;6H8A;17/03/2016;21/03/2016;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;4A8715;897;Pamela P. Fushi;GRANTED;FUSHI;fushi@us.ibm.com;18XA;13/07/2015;17/07/2015;IBM Production - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;4A8715;897;Pamela P. Fushi;GRANTED;FUSHI;fushi@us.ibm.com;18XA;13/07/2015;17/07/2015;IBM Test - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;4A8715;897;Pamela P. Fushi;GRANTED;FUSHI;fushi@us.ibm.com;18XA;13/07/2015;17/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;4A8715;897;Pamela P. Fushi;GRANTED;FUSHI;fushi@us.ibm.com;18XA;13/07/2015;17/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;4A8715;897;Pamela P. Fushi;GRANTED;FUSHI;fushi@us.ibm.com;18XA;13/07/2015;17/07/2015;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;8A1502;897;Patricia L. Brown;GRANTED;I8A1502;prown@us.ibm.com;3FTH;14/07/2015;15/07/2015;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;875141;897;Patricia P. Fry;GRANTED;FRYP;fryp@us.ibm.com;OG8A;14/07/2015;15/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;875141;897;Patricia P. Fry;GRANTED;FRYP;fryp@us.ibm.com;OG8A;14/07/2015;15/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6113;897;Patti Versace;GRANTED;E0J6113;pversace@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6113;897;Patti Versace;GRANTED;E0J6113;pversace@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6113;897;Patti Versace;GRANTED;E0J6113;pversace@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6113;897;Patti Versace;GRANTED;E0J6113;pversace@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6113;897;Patti Versace;GRANTED;E0J6113;pversace@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6113;897;Patti Versace;GRANTED;E0J6113;pversace@geodis.vnet.ibm.com;6H8A;04/12/2017;05/12/2017;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;ZZ02MA;820;PaweÅÇ KrzesiÅÑski;GRANTED;PZZ02MA;pawel.krzesinski@ibm.com;03I01;05/04/2019;08/04/2019;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;ZZ02MA;820;PaweÅÇ KrzesiÅÑski;GRANTED;PZZ02MA;pawel.krzesinski@ibm.com;03I01;05/04/2019;08/04/2019;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;C1625B;patricz@br.ibm.com;889021;19/10/2015;20/10/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Test - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Test - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Test - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Test - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;eCustoms US DB2 Test;ECUSTRD - for eCustoms table views in test
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Test - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Test - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;eCustoms US Profiles;TECUSLP - Only for Development Team
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;99473;631;PATRIC ZAGO;GRANTED;PATRICZ;patricz@br.ibm.com;889021;18/05/2016;23/05/2016;IBM Test - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;67235;672;Peng Cheng Sang;GRANTED;CNPSA31;spcsang@cn.ibm.com;YHU;01/02/2019;12/02/2019;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;67235;672;Peng Cheng Sang;GRANTED;CNPSA31;spcsang@cn.ibm.com;YHU;01/02/2019;12/02/2019;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;85714;649;Petek Bal;GRANTED;CA85714;petekbal@ca.ibm.com;C81;27/04/2017;02/05/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;A16695;693;Peter Zubor;GRANTED;AR32171;peter.zubor@sk.ibm.com;2506;19/06/2015;25/06/2015;eCustoms US Profiles;ECUMPCIC - Only for Security Officer
+E-CUSTOMS US APPLICATION;A16695;693;Peter Zubor;GRANTED;GLSO1;peter.zubor@sk.ibm.com;2506;19/06/2015;25/06/2015;eCustoms US Profiles;ECUMPCIC - Only for Security Officer
+E-CUSTOMS US APPLICATION;A16695;693;Peter Zubor;GRANTED;AR32171;peter.zubor@sk.ibm.com;2506;19/06/2015;25/06/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;A16695;693;Peter Zubor;GRANTED;GLSO1;peter.zubor@sk.ibm.com;2506;19/06/2015;25/06/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;Y9BJ6S;820;Probe GDBM/Poland/IBM;GRANTED;FALCON;prbgdbm@pl.ibm.com;3500;09/11/2015;10/11/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;Y9BJ6S;820;Probe GDBM/Poland/IBM;GRANTED;FALCON;prbgdbm@pl.ibm.com;3500;09/11/2015;10/11/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;P91640;820;RafaÅÇ KrysiÅÑski;GRANTED;#P91640;rafal.krysinski@pl.ibm.com;03I01;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;P91640;820;RafaÅÇ KrysiÅÑski;GRANTED;#P91640;rafal.krysinski@pl.ibm.com;03I01;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6486;897;Raven Baker;GRANTED;#0J6486;rbaker04@iespc.ibm.com;8LYA;01/02/2018;05/02/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;86074;744;RAGHUNADH RONGALI;GRANTED;#086074;rrongali@in.ibm.com;EJT;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;86074;744;RAGHUNADH RONGALI;GRANTED;#086074;rrongali@in.ibm.com;EJT;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Test - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Production - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Test - Online eCustoms US application;Classification Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Production - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Test - Online eCustoms US application;Control Total Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Production - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Test - Online eCustoms US application;Cusdec Resend Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;eCustoms US DB2 Test;ECUSTRD - for eCustoms table views in test
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Production - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Test - Online eCustoms US application;Inactive Entry Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Test - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;eCustoms US Profiles;TECUSLP - Only for Development Team
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;09192B;631;Renata de Jesus Lima;GRANTED;RJLIMA;rjlima@br.ibm.com;889021;13/09/2017;18/09/2017;IBM Test - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Test - Online eCustoms US application;Assist Update
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Test - Online eCustoms US application;Classification Update
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Test - Online eCustoms US application;Control Total Update
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Test - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Test - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Test - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Production - Online eCustoms US application;NEPA releaser
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Test - Online eCustoms US application;NEPA releaser
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Test - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;C-8UXH;897;Richard Edwards;GRANTED;EDWARD;redwards@us.ibm.com;18XA;15/07/2015;16/07/2015;IBM Test - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;0J6228;897;Robert Boehme;GRANTED;BOEHME;gboehm59@iespc.ibm.com;6H8A;17/07/2018;20/07/2018;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6228;897;Robert Boehme;GRANTED;BOEHME;gboehm59@iespc.ibm.com;6H8A;17/07/2018;20/07/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6228;897;Robert Boehme;GRANTED;BOEHME;gboehm59@iespc.ibm.com;6H8A;17/07/2018;20/07/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6228;897;Robert Boehme;GRANTED;BOEHME;gboehm59@iespc.ibm.com;6H8A;17/07/2018;20/07/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;525887;897;Robert E. O'Connell;GRANTED;OCONNEL;oconnelr@us.ibm.com;RZCA;07/11/2018;08/11/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;1J3578;897;Sabrina Hoke;GRANTED;#1J3578;us1j3578@lg.idepc.ibm.com;8LYA;31/07/2018;01/08/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;06545C;744;Shaik A. Asadulla;GRANTED;#06545C;shaik.asadulla@in.ibm.com;EMP;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;06545C;744;Shaik A. Asadulla;GRANTED;#06545C;shaik.asadulla@in.ibm.com;EMP;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;AD14PA;897;Shemiko Banks;GRANTED;AD14PA;sbanks@geodis.vnet.ibm.com;6H8A;17/03/2016;21/03/2016;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6501;897;Shemiko Banks;GRANTED;M0J6501;sbanks30@iespc.ibm.com;6H8A;29/12/2018;07/01/2019;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;73932;672;Shu Jun Wang;GRANTED;CNPSA41;szwangsj@cn.ibm.com;OAG;26/06/2017;14/07/2017;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;73932;672;Shu Jun Wang;GRANTED;CNPSA41;szwangsj@cn.ibm.com;OAG;26/06/2017;14/07/2017;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;73932;672;Shu Jun Wang;GRANTED;CNPSA17;szwangsj@cn.ibm.com;OAG;08/08/2018;09/08/2018;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;ZZ00E6;781;Silvia Hurtado;GRANTED;MZZ00E6;shurta08@iespc.ibm.com;0DIS;12/03/2019;14/03/2019;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;ZZ00E6;781;Silvia Hurtado;GRANTED;MZZ00E6;shurta08@iespc.ibm.com;0DIS;12/03/2019;14/03/2019;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;ZZ00E6;781;Silvia Hurtado;GRANTED;MZZ00E6;shurta08@iespc.ibm.com;0DIS;12/03/2019;14/03/2019;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;ZZ00E6;781;Silvia Hurtado;GRANTED;MZZ00E6;shurta08@iespc.ibm.com;0DIS;12/03/2019;14/03/2019;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;ZZ00E6;781;Silvia Hurtado;GRANTED;MZZ00E6;shurta08@iespc.ibm.com;0DIS;12/03/2019;14/03/2019;IBM Production - Online eCustoms US application;Inactive Entry Update
+E-CUSTOMS US APPLICATION;0009ZY;744;SRI HARSHA;GRANTED;NIRMALA;sharsha8@in.ibm.com;PED;05/03/2019;05/03/2019;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;8A3926;897;Stephen A. Sardello;GRANTED;SARDELO;sardello@us.ibm.com;5LHA;09/07/2015;10/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;8A3926;897;Stephen A. Sardello;GRANTED;SARDELO;sardello@us.ibm.com;5LHA;09/07/2015;10/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;8A3926;897;Stephen A. Sardello;GRANTED;SARDELO;sardello@us.ibm.com;5LHA;09/07/2015;10/07/2015;IBM Production - Online eCustoms US application;Global Update
+E-CUSTOMS US APPLICATION;0J6355;897;Tamara Redd;GRANTED;M0J6355;tredd05@iespc.ibm.com;6H8A;29/12/2018;07/01/2019;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;AH82PA;897;Tamika Sargent;GRANTED;TAMIKA;stamika@geodis.vnet.ibm.com;6H8A;08/02/2016;09/02/2016;IBM Production - Online eCustoms US application;Preprocessor Query
+E-CUSTOMS US APPLICATION;AH82PA;897;Tamika Sargent;GRANTED;TAMIKA;stamika@geodis.vnet.ibm.com;6H8A;08/02/2016;09/02/2016;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;240879;897;Tara Brace;GRANTED;TARA;tarab@us.ibm.com;18XA;08/07/2015;10/07/2015;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;240879;897;Tara Brace;GRANTED;TARA;tarab@us.ibm.com;18XA;08/07/2015;10/07/2015;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;240879;897;Tara Brace;GRANTED;TARA;tarab@us.ibm.com;18XA;08/07/2015;10/07/2015;IBM Production - Online eCustoms US application;Tracking Tool Query
+E-CUSTOMS US APPLICATION;0J6308;897;Teresa Graff;GRANTED;#0J6308;tgraff02@iespc.ibm.com;8LYA;28/09/2017;11/10/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6555;897;Thomas Bozarth;GRANTED;M0J6555;tbozar59@iespc.ibm.com;6H8A;31/10/2018;02/11/2018;IBM Production - Online eCustoms US application;Cusdec Resend Update
+E-CUSTOMS US APPLICATION;0J6555;897;Thomas Bozarth;GRANTED;M0J6555;tbozar59@iespc.ibm.com;6H8A;31/10/2018;02/11/2018;eCustoms US DB2 Production;ECTUPRD (tracking tools)
+E-CUSTOMS US APPLICATION;0J6555;897;Thomas Bozarth;GRANTED;M0J6555;tbozar59@iespc.ibm.com;6H8A;31/10/2018;02/11/2018;eCustoms US DB2 Production;ECUSARD (table views)
+E-CUSTOMS US APPLICATION;0J6555;897;Thomas Bozarth;GRANTED;M0J6555;tbozar59@iespc.ibm.com;6H8A;31/10/2018;02/11/2018;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;0J6555;897;Thomas Bozarth;GRANTED;M0J6555;tbozar59@iespc.ibm.com;6H8A;31/10/2018;02/11/2018;IBM Production - Online eCustoms US application;Preprocessor Update
+E-CUSTOMS US APPLICATION;0J6555;897;Thomas Bozarth;GRANTED;M0J6555;tbozar59@iespc.ibm.com;6H8A;31/10/2018;02/11/2018;IBM Production - Online eCustoms US application;Tracking Tool Update
+E-CUSTOMS US APPLICATION;46435;672;Tian Pei Xiao;GRANTED;CNPSA34;suxiaotp@cn.ibm.com;YHU;23/10/2018;29/10/2018;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;46435;672;Tian Pei Xiao;GRANTED;CNPSA34;suxiaotp@cn.ibm.com;YHU;23/10/2018;29/10/2018;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;0J6351;897;Vaughn Jones;GRANTED;#0J6351;us0j6351@lg.idepc.ibm.com;8LYA;13/11/2017;15/11/2017;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;06000B;744;Vinay Vasudeva;GRANTED;#06000B;vinay.vasudeva@in.ibm.com;EJT;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;Assist Query
+E-CUSTOMS US APPLICATION;06000B;744;Vinay Vasudeva;GRANTED;#06000B;vinay.vasudeva@in.ibm.com;EJT;14/07/2015;15/07/2015;IBM Production - Online eCustoms US application;General Search Query
+E-CUSTOMS US APPLICATION;AVNH9Y;672;Xian Ya Luo;GRANTED;CNOP233;xyluosz@cn.ibm.com;OAG;26/03/2019;27/03/2019;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;02825B;672;Xue Yang Zheng;GRANTED;CNPSA12;zxyzxy@cn.ibm.com;YHU;08/02/2018;09/02/2018;eCustoms US Profiles;TECUSLS - Only for Promoters
+E-CUSTOMS US APPLICATION;40335;672;Yu Dai;GRANTED;CNPSA32;daiyusu@cn.ibm.com;YHU;01/02/2019;12/02/2019;eCustoms US Profiles;ECUSPFLR  - for PECUPF.* profiles
+E-CUSTOMS US APPLICATION;40335;672;Yu Dai;GRANTED;CNPSA32;daiyusu@cn.ibm.com;YHU;01/02/2019;12/02/2019;eCustoms US Profiles;TECUSLS - Only for Promoters
